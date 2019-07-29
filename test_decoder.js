@@ -1,1 +1,1 @@
-// Inser code to test decoder.js
+// Insert code to test decoder.js
