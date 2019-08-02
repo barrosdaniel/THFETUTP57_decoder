@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const key = {
   a: 1,
   b: 2,
@@ -13,23 +12,6 @@ const key = {
 }
 
 const input = 'Daniel';
-||||||| merged common ancestors
-const key = 'Daniel';
-=======
-const key = {
-  a: 1,
-  b: 2,
-  c: 3,
-  d: 4,
-  e: 5,
-  f: 6,
-  g: 7,
-  h: 8,
-  i: 9,
-}
-
-const key = 'Daniel';
->>>>>>> master
 
 function decode(numbers) {
   let text = '';
@@ -40,14 +22,9 @@ function decode(numbers) {
   return text
 }
 
-<<<<<<< HEAD
 console.log(decode(input));
-||||||| merged common ancestors
-console.log(decode(key));
-=======
 console.log(decode(key));
 
 // Fixed some error
 
 //Fixed some other error directly in the master branch
->>>>>>> master
