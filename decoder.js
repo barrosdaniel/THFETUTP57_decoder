@@ -8,6 +8,7 @@ const key = {
   g: 7,
   h: 8,
   i: 9,
+  z: 26,
 }
 
 const key = 'Daniel';
