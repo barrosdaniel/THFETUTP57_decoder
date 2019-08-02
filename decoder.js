@@ -10,3 +10,5 @@ function decode(numbers) {
 }
 
 console.log(decode(key));
+
+// Fixed some error
