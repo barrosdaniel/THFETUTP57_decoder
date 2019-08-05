@@ -12,7 +12,7 @@ const key = {
   z: 26,
 }
 
-const key = 'Daniel';
+const numbers = 'Daniel';
 
 function decode(numbers) {
   let text = '';
