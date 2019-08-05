@@ -9,6 +9,7 @@ const key = {
   h: 8,
   i: 9,
   j: 10,
+  k: 11,
 }
 
 const input = 'Daniel';
