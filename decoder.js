@@ -10,9 +10,12 @@ const key = {
   i: 9,
   j: 10,
   k: 11,
+  x: 24,
+  y: 25,
+  z: 26,
 }
 
-const input = 'Daniel';
+const numbers = 'Daniel';
 
 function decode(numbers) {
   let text = '';
