@@ -13,6 +13,8 @@ const key = {
   x: 24,
   y: 25,
   z: 26,
+  y: 25,
+  z: 26,
 }
 
 const numbers = 'Daniel';
